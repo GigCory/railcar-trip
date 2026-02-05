@@ -1,0 +1,5 @@
+Event Code,Event Description,Long Description
+W,Released,Railcar equipment is released from origin
+A,Arrived,Railcar equipment arrives at a city on route
+D,Departed,Railcar equipment departs from a city on route
+Z,Placed,Railcar equipment is placed at destination
